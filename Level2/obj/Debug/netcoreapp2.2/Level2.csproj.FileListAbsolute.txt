@@ -1,0 +1,16 @@
+E:\Shilpa\24-03-2020\RESTful Web services with ASP.NET Core\ASP.NET Core WebAPI Next Level\Level2\Level2\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Shilpa\24-03-2020\RESTful Web services with ASP.NET Core\ASP.NET Core WebAPI Next Level\Level2\Level2\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Shilpa\24-03-2020\RESTful Web services with ASP.NET Core\ASP.NET Core WebAPI Next Level\Level2\Level2\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\Shilpa\24-03-2020\RESTful Web services with ASP.NET Core\ASP.NET Core WebAPI Next Level\Level2\Level2\bin\Debug\netcoreapp2.2\Level2.deps.json
+E:\Shilpa\24-03-2020\RESTful Web services with ASP.NET Core\ASP.NET Core WebAPI Next Level\Level2\Level2\bin\Debug\netcoreapp2.2\Level2.runtimeconfig.json
+E:\Shilpa\24-03-2020\RESTful Web services with ASP.NET Core\ASP.NET Core WebAPI Next Level\Level2\Level2\bin\Debug\netcoreapp2.2\Level2.runtimeconfig.dev.json
+E:\Shilpa\24-03-2020\RESTful Web services with ASP.NET Core\ASP.NET Core WebAPI Next Level\Level2\Level2\bin\Debug\netcoreapp2.2\Level2.dll
+E:\Shilpa\24-03-2020\RESTful Web services with ASP.NET Core\ASP.NET Core WebAPI Next Level\Level2\Level2\obj\Debug\netcoreapp2.2\Level2.csprojAssemblyReference.cache
+E:\Shilpa\24-03-2020\RESTful Web services with ASP.NET Core\ASP.NET Core WebAPI Next Level\Level2\Level2\obj\Debug\netcoreapp2.2\Level2.RazorAssemblyInfo.cache
+E:\Shilpa\24-03-2020\RESTful Web services with ASP.NET Core\ASP.NET Core WebAPI Next Level\Level2\Level2\obj\Debug\netcoreapp2.2\Level2.RazorAssemblyInfo.cs
+E:\Shilpa\24-03-2020\RESTful Web services with ASP.NET Core\ASP.NET Core WebAPI Next Level\Level2\Level2\obj\Debug\netcoreapp2.2\Level2.AssemblyInfoInputs.cache
+E:\Shilpa\24-03-2020\RESTful Web services with ASP.NET Core\ASP.NET Core WebAPI Next Level\Level2\Level2\obj\Debug\netcoreapp2.2\Level2.AssemblyInfo.cs
+E:\Shilpa\24-03-2020\RESTful Web services with ASP.NET Core\ASP.NET Core WebAPI Next Level\Level2\Level2\obj\Debug\netcoreapp2.2\Level2.RazorTargetAssemblyInfo.cache
+E:\Shilpa\24-03-2020\RESTful Web services with ASP.NET Core\ASP.NET Core WebAPI Next Level\Level2\Level2\bin\Debug\netcoreapp2.2\Level2.pdb
+E:\Shilpa\24-03-2020\RESTful Web services with ASP.NET Core\ASP.NET Core WebAPI Next Level\Level2\Level2\obj\Debug\netcoreapp2.2\Level2.dll
+E:\Shilpa\24-03-2020\RESTful Web services with ASP.NET Core\ASP.NET Core WebAPI Next Level\Level2\Level2\obj\Debug\netcoreapp2.2\Level2.pdb
